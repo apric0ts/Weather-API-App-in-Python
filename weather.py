@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-API_KEY = "ea0548b9a7b28a55f6cc4ed5fce3a3bd"
+API_KEY = ""
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 #--------------------FUNCTIONS-----------------------------
